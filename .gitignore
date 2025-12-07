@@ -1,0 +1,7 @@
+/.claude/
+/.idea/
+/.kilocode/
+/target/
+CLAUDE.md
+docs
+flink-s3.iml
